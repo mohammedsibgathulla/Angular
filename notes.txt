@@ -50,3 +50,8 @@
 - cd my-app
 - ng serve	    
 
+5. Editing The First App
+- {{name}} for property binding.
+- [(ngModel)] = "name" for two way data binding.
+- See the project. 
+
