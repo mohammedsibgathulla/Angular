@@ -1,0 +1,5 @@
+1. What Is Angular? 
+- Angular is JavaScript Framework which allows you to create reactive SPAs.
+
+2. Angular vs Angular 2 vs Angular 9
+- See the image.
