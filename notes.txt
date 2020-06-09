@@ -55,3 +55,8 @@
 - [(ngModel)] = "name" for two way data binding.
 - See the project. 
 
+6. Adding Bootstrap For Styling
+- npm install --save bootstrap@4 
+- Go to angular.json config file and add "node_modules/bootstrap/dist/css/bootstrap.min.css" for the styles array.
+- See the project.
+
