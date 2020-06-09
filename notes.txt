@@ -44,4 +44,9 @@
 	    My changes are not reflected in the browser (App is not compiling)
 	    Check if the window running ng serve  displays an error. If that's not the case, make sure you're using the latest CLI version and try restarting your CLI
 
-	    
+4. Project Setup & First App
+- npm install -g @angular/cli
+- ng new my-app
+- cd my-app
+- ng serve	    
+
