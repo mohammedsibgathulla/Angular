@@ -74,3 +74,8 @@
 9. Working With Component Templates
 - See the project.
 
+10. Working With Component Styles
+- You can add multiple style sheets to the styleUrls array in the component.
+- You can write inline css using the styles: [] array.
+- See the project. 
+

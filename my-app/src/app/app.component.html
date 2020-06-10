@@ -1,6 +1,16 @@
-<div>
-  <h1>Hi, this is the App Component.</h1>
-  <p>{{name}}</p>
-  <input type="text" [(ngModel)] = "name">
+<div class="container">
+  <div class="row"></div>
+  <div class="col-xs-12">
+    <h1>Hi, this is the App Component.</h1>
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <input type="text" [(ngModel)] = "name">
+    </div>
+    <div class="col-xs-12">
+      <p>{{name}}</p>
+    </div>
+  </div>
+  <hr>
+  <app-servers></app-servers> 
 </div>
-<app-servers></app-servers> 
