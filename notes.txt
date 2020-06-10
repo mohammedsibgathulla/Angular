@@ -65,3 +65,9 @@
 - platformBrowserDynamic().bootstrapModule(AppModule).catch(err => console.error(err)); //This line will start our application by passing the AppModule as param.
 -  bootstrap: [AppComponent] //this is the bootsrap array in app.module.ts which basically lists all the components which should be known to Angular at the point of time it analyzes our index.html file. 
 
+8. Creating A New Component
+- ng g c component-name(server)
+- app.module.ts containts declartations, imports, providers and bootstrap array. Where the boostrap responsibilty is to tell angular which component should be aware of at the point of time the whole application starts. Which component should be basically recognized in the index.html file.
+- Now we have created a new component that need to be registred hence we need to add it to the declarations array.
+- See the project for details.
+
