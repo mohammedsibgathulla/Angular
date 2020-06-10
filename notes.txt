@@ -79,3 +79,9 @@
 - You can write inline css using the styles: [] array.
 - See the project. 
 
+11. Fully Understanding The Component Selector
+- We are using the selector as an element, we can use it an attribte and a class.
+- Selecting by id won't work.  It is not supported by angular.
+- We typically use the element style for components. 
+- See the project.
+
