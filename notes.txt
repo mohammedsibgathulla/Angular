@@ -60,3 +60,8 @@
 - Go to angular.json config file and add "node_modules/bootstrap/dist/css/bootstrap.min.css" for the styles array.
 - See the project.
 
+7. How An Angular App Gets Loaded And Started
+- The code from main.ts file gets first executed.
+- platformBrowserDynamic().bootstrapModule(AppModule).catch(err => console.error(err)); //This line will start our application by passing the AppModule as param.
+-  bootstrap: [AppComponent] //this is the bootsrap array in app.module.ts which basically lists all the components which should be known to Angular at the point of time it analyzes our index.html file. 
+
