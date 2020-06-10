@@ -71,3 +71,6 @@
 - Now we have created a new component that need to be registred hence we need to add it to the declarations array.
 - See the project for details.
 
+9. Working With Component Templates
+- See the project.
+
