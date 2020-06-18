@@ -104,4 +104,7 @@
 - If you want to change some property be of a html element or a directive or component use property binding.
 - You can also call a method in the property binding.
 
+17. Event Binding
+- See the project.
+
 
