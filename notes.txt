@@ -99,4 +99,9 @@
 - You can do property binding for all the html element properties.
 - See the project.
 
+16. Property Binding vs String Interpolation
+- If you want to output something in your template use string interpolation.
+- If you want to change some property be of a html element or a directive or component use property binding.
+- You can also call a method in the property binding.
+
 
