@@ -94,4 +94,9 @@
 - You can't use multiline expressions like if or for. You can use ternary expression.
 - See the project.
 
+14. Property Binding
+- Lot of time you can use property binding or string interpolation.
+- You can do property binding for all the html element properties.
+- See the project.
+
 
