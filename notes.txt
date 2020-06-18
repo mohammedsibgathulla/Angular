@@ -89,4 +89,9 @@
 - Data Binding is the communication between the typescript code and the html template.
 - See the image.
 
+13. String Interpolation
+- What ever is inside the curly braces somehow has to written a string or a thing that can be converted to string exactly. It could be a method also.
+- You can't use multiline expressions like if or for. You can use ternary expression.
+- See the project.
+
 
