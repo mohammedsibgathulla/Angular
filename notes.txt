@@ -114,4 +114,7 @@ Important: For events, you don't bind to onclick but only to click (=> (click)).
 
 The MDN (Mozilla Developer Network) offers nice lists of all properties and events of the element you're interested in. Googling for YOUR_ELEMENT properties  or YOUR_ELEMENT events  should yield nice results.
 
+19. Passing And Using Data With Event Binding
+- See the project. 
+
 
