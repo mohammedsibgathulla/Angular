@@ -85,3 +85,8 @@
 - We typically use the element style for components. 
 - See the project.
 
+12. What Is Data Binding?
+- Data Binding is the communication between the typescript code and the html template.
+- See the image.
+
+
