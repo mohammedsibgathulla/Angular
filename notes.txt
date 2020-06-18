@@ -120,4 +120,7 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 20. Two-Way-Databinding
 - See the project. 
 
+21. Combining All Forms Of Databinding
+- See the project.
+
 
