@@ -130,4 +130,9 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 - There are also directives without a template.
 - See the image.
 
+23. Using ngIf to Output Data Conditionally	
+- * in the begining in *ngIf indicates that it is a structural directive that changes the DOM.
+- We can put the else condition by using the local reference in <ng-template> which is a directive shipping with angular which you can use to mark places in the DOM.
+- See the project.
+
 
