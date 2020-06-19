@@ -123,4 +123,11 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 21. Combining All Forms Of Databinding
 - See the project.
 
+22. Understanding Directives
+- Directives are instructions in the DOM.
+- Components are such kind of instructions in the DOM.
+- Components are directives with a template.
+- There are also directives without a template.
+- See the image.
+
 
