@@ -146,4 +146,7 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 - ngClass allows us to dynamically add or remove CSS classes. 
 - See the project. 
 
+26. Outputting Lists With ngFor
+- See the project. 
+
 

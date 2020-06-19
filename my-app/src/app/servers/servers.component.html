@@ -13,5 +13,4 @@
 <input type="text" class="form-control" [(ngModel)] = "username" />
 <button class="btn btn-primary" [disabled]="username === ''" (click)="username = ''">Add User</button>
 <p>Enterd username is {{username}}</p>
-<app-server></app-server>
-<app-server></app-server>
+<app-server *ngFor="let server of servers"></app-server> 
