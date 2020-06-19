@@ -142,4 +142,8 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 - With the help of ngStyle we can dynamically update the style of the elements.
 - See the project. 
 
+25. Applying CSS Classes Dynamically With ngClass
+- ngClass allows us to dynamically add or remove CSS classes. 
+- See the project. 
+
 
