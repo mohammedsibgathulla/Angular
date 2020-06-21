@@ -16,8 +16,10 @@ export class ServersComponent implements OnInit {
   serverName = 'Test Server';
   username = '';
   servers = ["Test Server 1", "Test Server 2"];
+  logs = [];
 
   serverCreated = false;
+  showParagraph = false;
 
   constructor() { 
     setTimeout(() => {
@@ -38,6 +40,9 @@ export class ServersComponent implements OnInit {
     this.serverName = (<HTMLInputElement>event.target).value;
   }
 
- 
+  toggleParagraph() {
+    this.logs.push(new Date());
+    this.showParagraph = !this.showParagraph;
+  }
 
 }

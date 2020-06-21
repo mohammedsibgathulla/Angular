@@ -149,4 +149,7 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 26. Outputting Lists With ngFor
 - See the project. 
 
+28. Assignment Solution
+- See the project.
+
 
