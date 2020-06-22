@@ -168,6 +168,10 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 - ng g c shopping-edit --spec false
 - See the project. 
 
+32. Adding A Navigation Bar
+- Refer https://getbootstrap.com/docs/4.1/components/navbar/
+- See the project.
+
 
 
 
