@@ -152,4 +152,7 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 28. Assignment Solution
 - See the project.
 
+29. Planning The App
+- See the image.
+
 
