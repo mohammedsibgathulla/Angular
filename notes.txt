@@ -155,4 +155,9 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 29. Planning The App
 - See the image.
 
+30. Setting Up The Application
+- ng new recipe-app
+- npm install --save bootstrap //To install the latest bootstrap version.
+
+
 
