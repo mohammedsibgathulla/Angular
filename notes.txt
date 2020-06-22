@@ -176,6 +176,9 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 - You can create a file with recipe.model.ts for creating the model. Here .model is optional you can just create recipe.ts
 - See the project.
 
+34. Adding Content To The Recipes Components
+- See the project & image.
+
 
 
 
