@@ -196,6 +196,9 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 39. Creating And Outputting The Shipping List
 - Refer the porject & image. 
 
+40. Adding A Shopping List Edit Section
+- Refer the project & image.
+
 
 
 
