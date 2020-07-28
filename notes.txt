@@ -204,6 +204,9 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 - Select the file and put the debug pointer for debugging.
 - You can install Angular Augury and using it you can easily debug your application.
 
+42. Splitting Apps Into Components
+- See the project. There are some errors we will fix in the next section.
+
 
 
 
