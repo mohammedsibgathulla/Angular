@@ -199,6 +199,11 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 40. Adding A Shopping List Edit Section
 - Refer the project & image.
 
+41. Debugging Code In The Browser Using SourceMaps
+- Under webpack you can see couple of subfolders under that u can access src folder and you can find all your typescript files
+- Select the file and put the debug pointer for debugging.
+- You can install Angular Augury and using it you can easily debug your application.
+
 
 
 
