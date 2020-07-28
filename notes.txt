@@ -182,6 +182,9 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 35. Outputting A List Of Recipes With ngFor
 - You can use  string interpolation for imagePath as src="{{recipe.imagePath}}"  or you can use property binding as [src] = "recipe.imagePath"
 
+36. Displaying Recipe Details
+- Refer the project.
+
 
 
 
