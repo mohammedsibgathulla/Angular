@@ -191,7 +191,10 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 38. Creating A "ingredient" Model
 - For us no need to decalre variables and assign them in constructor we can just put public infront of the variable and put in constructor which is equivalent to the previous syntax and typescript handle this internally.
 	public name: string, public amount: number 
-- Refer the project. 
+- Refer the project.
+
+39. Creating And Outputting The Shipping List
+- Refer the porject & image. 
 
 
 
