@@ -185,6 +185,9 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 36. Displaying Recipe Details
 - Refer the project.
 
+37. Working On The ShoppingListComponent
+- Refer the porject.
+
 
 
 
