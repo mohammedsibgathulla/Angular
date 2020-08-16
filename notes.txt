@@ -207,6 +207,10 @@ The MDN (Mozilla Developer Network) offers nice lists of all properties and even
 42. Splitting Apps Into Components
 - See the project. There are some errors we will fix in the next section.
 
+43. Property & Event Binding
+- We can do property and event binding using the ways shown in the image.
+- Refer the image.
+
 
 
 
